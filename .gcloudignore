@@ -1,0 +1,9 @@
+# Ignore virtual environment directory
+.venv
+
+# Ignore environment variable files
+.env
+
+# Ignore other unnecessary files or directories
+*.log
+*.tmp
